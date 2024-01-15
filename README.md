@@ -1,2 +1,3 @@
 # Gerador-de-QRcode
-Um simples gerador de QRcode.
+
+Uma aplicação Web que transforma link em QRcode
